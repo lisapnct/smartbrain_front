@@ -1,5 +1,5 @@
 This is my first app created with React, Redux, Node and Express ! 
-Deployed on Heroku. Try it here https://smartbrainlpnct.herokuapp.com/
+I deployed it on Heroku. Try it here https://smartbrainlpnct.herokuapp.com/
 
 ## Available Scripts
 
