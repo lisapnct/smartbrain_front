@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first app created with React, Redux, Node and Express ! 
+Deployed on Heroku. Try it here https://smartbrainlpnct.herokuapp.com/
 
 ## Available Scripts
 
