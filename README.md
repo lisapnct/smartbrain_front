@@ -1,4 +1,9 @@
-This is my first app created with React, Redux, Node and Express ! 
+This is my first app ! I created it using React and Node and deployed it on Heroku. 
+You can try it here https://smartbrainlpnct.herokuapp.com/
+
+See the back-end part here https://github.com/lisapnct/smartbrain_api
+
+
 I deployed it on Heroku. Try it here https://smartbrainlpnct.herokuapp.com/
 
 ## Available Scripts
